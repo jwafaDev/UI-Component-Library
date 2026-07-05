@@ -227,4 +227,4 @@ If you have any questions or issues, please [open an issue](https://github.com/j
 
 **Made with ❤️ by jwafaDev**
 
-⭐ If you find this library helpful, please give it a star!
+If you find this library helpful, please give it a star!
