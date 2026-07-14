@@ -1,4 +1,4 @@
-# 🎨 UI Component Library
+#  UI Component Library
 
 A beautiful, lightweight, and easy-to-use React UI component library built with modern best practices.
 
@@ -7,16 +7,16 @@ A beautiful, lightweight, and easy-to-use React UI component library built with 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/jwafaDev/UI-Component-Library?style=social)](https://github.com/jwafaDev/UI-Component-Library)
 
-## ✨ Features
+##  Features
 
-- 🚀 **Easy to Use** - Simple API and great documentation
-- 🎨 **Fully Customizable** - Style components to match your design
-- 📦 **Lightweight** - Minimal dependencies, optimal performance
-- ♿ **Accessible** - Built with accessibility in mind
-- 📱 **Responsive** - Works perfectly on all devices
-- 🌟 **Beautiful** - Modern design out of the box
+-  **Easy to Use** - Simple API and great documentation
+-  **Fully Customizable** - Style components to match your design
+-  **Lightweight** - Minimal dependencies, optimal performance
+-  **Accessible** - Built with accessibility in mind
+-  **Responsive** - Works perfectly on all devices
+-  **Beautiful** - Modern design out of the box
 
-## 📦 Installation
+##  Installation
 
 ```bash
 npm install @jwafadev/ui-components
@@ -24,7 +24,7 @@ npm install @jwafadev/ui-components
 yarn add @jwafadev/ui-components
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```jsx
 import React from 'react';
